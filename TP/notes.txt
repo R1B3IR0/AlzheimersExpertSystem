@@ -1,0 +1,2 @@
+Para ignorar os warnings de variáveis singleton, adicione a seguinte linha no início do arquivo rules.pl:
+:- style_check(-singleton).
